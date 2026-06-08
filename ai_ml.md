@@ -117,5 +117,4 @@ My Student Marks Predictor project taught me more than dozens of tutorials becau
 
 The best way to learn Machine Learning is not just to study it.
 
-It's to build it.
 <img width="516" height="90" alt="Screenshot 2026-06-08 143712" src="https://github.com/user-attachments/assets/dbdebd72-c023-402b-bcaa-bbae82be751a" />
